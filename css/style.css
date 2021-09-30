@@ -1,0 +1,96 @@
+/* LANDING PAGE */
+.landing-page {
+  background-size: auto;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 70px;
+  /* background-color: #BCFFB9 */
+}
+
+.landing-page-image {
+  margin-right: 100px;
+}
+
+.landing-page-statement {
+  text-align: center;
+}
+
+.landing-page-statement h1 {
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.landing-page-statement h5 {
+  color: #3F3F44;
+  font-weight: 200;
+}
+
+
+/* NAVBAR */
+.navbar-brand{
+  color: #A0E418;
+  font-size: 130%;
+  font-weight:bold;
+}
+
+
+/* PRODUCT SUMMARY */
+.product-page {
+  text-align: center;
+  height: 600px;
+  margin: 40px 100px;
+}
+
+.product-page h1 {
+  text-align: center;
+  color:#A0E418;
+  padding-top: 40px;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.product-page p {
+  padding: 15px 0px;
+  margin: 0;
+  color: #FE8F8F;
+  font-size: 25px;
+  font-weight: 400;
+  font-weight: bold;
+}
+
+
+.features {
+  padding-bottom: 60px;
+}
+
+.btn {
+  padding: 0;
+  border: 0;
+}
+
+.group {
+  color:#FE8F8F;
+}
+
+.benefits h2 {
+  color:#3F3F44;
+  padding-top: 20px;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.benefits p {
+  color: #A0E418;
+  font-size: 25px;
+  font-weight: 100;
+}
+
+.footer {
+  text-align: right;
+  font-size: 12px;
+  color: grey;
+}
